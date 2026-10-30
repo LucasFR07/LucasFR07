@@ -4,7 +4,7 @@ Software Engineer focused on backend, real-time and distributed systems.
 
 ## About
 
-I build and operate production systems where correctness, performance and reliability matter: APIs, third-party integrations, payment-related flows and real-time features. Earlier in my career I led teams and worked in commercial management; today I am hands-on.
+I build and operate production systems where correctness, performance and reliability matter: APIs, third-party integrations, payment workflows and real-time data processing. Earlier in my career I led teams and worked in commercial management; today I am hands-on.
 
 ## Engineering Focus
 
@@ -27,17 +27,17 @@ Docker, AWS, CI/CD, Git
 ### Languages
 TypeScript, JavaScript, Python, PHP
 
-## Selected Work
+## Selected Engineering Experience
 
-Most of my work is in private, production codebases. It is described here at a high level, without confidential details.
+Private / commercial work, described by engineering area only.
 
-**Real-Time Financial Platform**
+### Real-Time Financial Systems
 
-Platform for processing financial operations in real time. Engineering areas: WebSockets, Redis, PostgreSQL, concurrency, event processing, idempotency, observability and performance.
+Backend architecture · Real-time data processing · WebSockets · PostgreSQL · Redis · Distributed coordination · Idempotency · Transactional outbox · API integrations · Payment workflows · Observability · Performance optimization
 
-**Multi-channel E-commerce Operations Platform**
+### Multi-channel E-commerce Operations
 
-Operations platform for multi-channel e-commerce. Engineering areas: marketplace integrations, workflow automation, production routing, inventory integrations and external APIs.
+Marketplace integrations · Workflow automation · Inventory synchronization · External APIs · PostgreSQL · Python · Cloud infrastructure
 
 ## Currently exploring
 
