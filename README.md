@@ -1,48 +1,52 @@
 # Lucas Florencio
 
-Software Engineer focused on backend, real-time and distributed systems.
+Software Engineer com foco em backend, sistemas em tempo real e integrações.
 
-## About
+## Sobre
 
-I build and operate production systems where correctness, performance and reliability matter: APIs, third-party integrations, payment workflows and real-time data processing. Earlier in my career I led teams and worked in commercial management; today I am hands-on.
+Atuo no desenvolvimento e evolução de sistemas web e plataformas com forte componente de backend, APIs, integrações e processamento em tempo real, com atenção a confiabilidade, performance e consistência de dados. No início da carreira atuei em gestão comercial e liderança de equipes; hoje minha atuação é predominantemente hands-on.
 
-## Engineering Focus
+## Áreas de atuação
 
-Backend architecture · Real-time systems with WebSockets · APIs and external integrations · Concurrency, idempotency and event processing · Databases and SQL performance · Observability · Infrastructure with Docker and AWS
+Backend e arquitetura de sistemas · Sistemas em tempo real com WebSockets · APIs e integrações · Controle de concorrência, idempotência e processamento de eventos · Bancos de dados e performance de consultas · Observabilidade · Infraestrutura com Docker e AWS
 
-## Tech
+## Tecnologias
 
 ### Backend
 Node.js, TypeScript, PHP, Laravel
 
+### Dados
+PostgreSQL, Redis, MySQL
+
 ### Frontend
 React, Next.js, Vue.js
 
-### Data
-PostgreSQL, Redis, MySQL
-
-### Infrastructure
+### Infraestrutura
 Docker, AWS, CI/CD, Git
 
-### Languages
+### Linguagens
 TypeScript, JavaScript, Python, PHP
 
-## Selected Engineering Experience
+## Experiência em engenharia
 
-Private / commercial work, described by engineering area only.
+Experiências comerciais privadas, descritas apenas pelas áreas de engenharia.
 
-### Real-Time Financial Systems
+### Sistemas financeiros em tempo real
 
-Backend architecture · Real-time data processing · WebSockets · PostgreSQL · Redis · Distributed coordination · Idempotency · Transactional outbox · API integrations · Payment workflows · Observability · Performance optimization
+Experiência profissional / sistema privado
 
-### Multi-channel E-commerce Operations
+Desenvolvimento de backend e comunicação em tempo real com WebSockets, Redis e PostgreSQL. Atuação em controle de concorrência, idempotência, outbox transacional, reconciliação, integrações de API e fluxos de pagamento, com foco em observabilidade e performance.
 
-Marketplace integrations · Workflow automation · Inventory synchronization · External APIs · PostgreSQL · Python · Cloud infrastructure
+### Automação de operações de e-commerce
 
-## Currently exploring
+Experiência profissional / sistema privado
 
-Go, systems engineering and information security.
+Integrações com marketplaces e APIs externas, automação de fluxos de trabalho e sincronização de estoque, com PostgreSQL, Python e infraestrutura em cloud.
 
-## Contact
+## Atualmente estudando
+
+Go, engenharia de sistemas e segurança da informação.
+
+## Contato
 
 [LinkedIn](https://www.linkedin.com/in/lucasflorenciodev/)
